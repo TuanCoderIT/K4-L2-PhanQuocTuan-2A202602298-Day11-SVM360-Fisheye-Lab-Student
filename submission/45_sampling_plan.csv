@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,35,Low,Góc nhìn thẳng rõ ràng phía trước; mật độ giao thông trung bình.
+front,hard,25,High,Chói sáng mặt trời hoặc xe đối diện bật đèn pha; người đi bộ cắt ngang bất ngờ.
+rear,normal,35,Low,Quan sát đuôi xe và khoảng cách an toàn phía sau khi di chuyển bình thường.
+rear,hard,25,High,Thời tiết mưa bám giọt nước lên ống kính; đèm xe phía sau rọi trực tiếp gây mờ.
+left,normal,25,Medium,Góc nhìn sườn trái; các phương tiện song song di chuyển ổn định.
+left,hard,25,High,Điểm mù lớn; hiện tượng biến dạng fisheye nặng ở mép ảnh; phương tiện tạt đầu gần.
+right,normal,25,Medium,Góc nhìn sườn phải; mép đường và vỉa hè cố định.
+right,hard,25,High,Vùng nhập làn phức tạp; vạch kẻ đường mờ; chướng ngại vật cố định sát lề.

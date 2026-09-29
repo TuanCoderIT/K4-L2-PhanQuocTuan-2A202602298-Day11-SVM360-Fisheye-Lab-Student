@@ -1,1 +1,11 @@
 round,slice,frame,object_ref,cell,what,why,severity,owner,rule_id,evidence,action,rules_version,note
+calib,C0,adasind_019560.jpg,L1+R3,na,WRONG_CLASS,,,,,,,,
+calib,C0,adasind_019560.jpg,L5,na,SPURIOUS,,,,,,,,
+calib,C0,adasind_019560.jpg,L7,na,SPURIOUS,,,,,,,,
+calib,C0,adasind_019560.jpg,L8,na,SPURIOUS,,,,,,,,
+calib,C0,adasind_019560.jpg,R5,na,MISSING,,,,,,,,
+r1_craft,B4-dense,adasind_258420.jpg,L5+R5,na,BOX_GEOMETRY,,,,,,,,
+r1_craft,B4-dense,adasind_258420.jpg,L7,na,SPURIOUS,,,,,,,,
+r1_craft,B4-dense,adasind_258420.jpg,L9,na,SPURIOUS,,,,,,,,
+r1_craft,B4-dense,adasind_258420.jpg,L11,na,SPURIOUS,,,,,,,,
+r1_craft,B4-dense,adasind_270517.jpg,L3,na,IGNORE_SCOPE,,,,,,,,
