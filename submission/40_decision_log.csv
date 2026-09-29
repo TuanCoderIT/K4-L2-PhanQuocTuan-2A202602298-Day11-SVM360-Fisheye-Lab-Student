@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+DEC-001,2026-09-29,Có gán nhãn cho người dắt xe hai bánh thành 2 box không?,Áp dụng R03: 1 Pedestrian và 1 Bike riêng,Người dắt xe tuân theo luật R03 chia làm 2 đối tượng độc lập,closed
+DEC-002,2026-09-29,Xử lý xe ba bánh ThreeWheeler bị che khuất một phần ở mid zone thế nào?,Gán nhãn ThreeWheeler có attribute occluded=true,Phương tiện nhìn thấy phần chính nhưng bị che bởi các xe khác,closed
+DEC-003,2026-09-29,Xử lý polygon ego_body trên frame không nhìn thấy thân xe?,Không vẽ polygon ego_body trên frame 006840 và 271039,Tuân thủ R07 tránh tạo polygon thừa khi không có thân xe ego,closed
+DEC-004,2026-09-29,Model YOLO bỏ sót ThreeWheeler L1 ở rìa ống kính fisheye?,Tạo escalation ticket gửi AI Team bổ sung dữ liệu huấn luyện fisheye edge,Model bị trượt bám do méo ống kính fisheye ở biên ảnh,escalated
